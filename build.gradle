@@ -1,0 +1,3 @@
+apply plugin : 'application'
+mainClassName = "paint.Main"
+sourceSets.main.java.srcDirs = ['src']
